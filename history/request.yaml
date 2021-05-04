@@ -1,0 +1,5 @@
+data_ready: false
+data_stream: CE02SHSP-SP001-09-PARADJ000-telemetered-parad_j_cspp_instrument
+last_request: '2021-05-04T22:43:08.524397Z'
+response: https://raw.githubusercontent.com/ooi-data/CE02SHSP-SP001-09-PARADJ000-telemetered-parad_j_cspp_instrument/main/history/response.json
+status: pending
